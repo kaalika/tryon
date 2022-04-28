@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gorilla Tag Sun Glasses
+* source:	https://sketchfab.com/3d-models/gorilla-tag-sun-glasses-56968976b435440ab8bb1b7a74b4207f
+* author:	Pancake_Prime (https://sketchfab.com/Pancake_Prime)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gorilla Tag Sun Glasses" (https://sketchfab.com/3d-models/gorilla-tag-sun-glasses-56968976b435440ab8bb1b7a74b4207f) by Pancake_Prime (https://sketchfab.com/Pancake_Prime) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
